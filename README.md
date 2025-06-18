@@ -67,7 +67,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DumBoa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img 
+  src="https://streak-stats.demolab.com?user=DumBoa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+  alt="GitHub Streak" 
+  height="220"
+/>
 </div>
 
 ###
