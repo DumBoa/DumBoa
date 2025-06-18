@@ -1,8 +1,4 @@
 <!-- PROFILE HEADER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="100%" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Huy Hoàng (DumBoa)</h1>
 <h3 align="center">💻 Full Stack Developer | Software Enthusiast | From Vietnam 🇻🇳</h3>
 
