@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DumBoa&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DumBoa&show_icons=true&theme=tokyonight&hide_border=false" height="100"/>
   <img src="https://streak-stats.demolab.com?user=DumBoa&theme=dark&hide_border=false&border_radius=5&mode=daily&order=3" height="180"/>
 </div>
 
