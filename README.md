@@ -80,6 +80,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DumBoa/DumBoa/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/DumBoa/DumBoa/output/snake.svg)
 
 ###
