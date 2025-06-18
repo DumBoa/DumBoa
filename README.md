@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Huy Hoàng (DumBoa)</h1>
+<h1 align="center">Hi 👋, I'm Huy Hoàng (DumBoa-HyWang)</h1>
 <h3 align="center">💻 Full Stack Developer | Software Enthusiast | From Vietnam 🇻🇳</h3>
 
 <!-- BADGES -->
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥   My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DumBoa&show_icons=true&theme=tokyonight&hide_border=false" height="150"/>
@@ -49,7 +49,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🔥   Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DumBoa/DumBoa/output/snake.svg" alt="Snake animation" />
