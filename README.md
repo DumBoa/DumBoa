@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m working as a **Software Developer** and learning **Full Stack** technologies  
-- 📚 Currently focused on **Backend**, **SQL**, **.NET**, **NodeJS**  
+- 🔭 I’m working as a **Software Developer** and learning **All** technologies  
+- 📚 Currently focused on **Backend**  
 - ⚡ Passionate about performance, building real-world tools & automation
 
 ---
