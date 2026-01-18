@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Huy Hoàng (DumBoa-HyWang)</h1>
-<h3 align="center">💻 Full Stack Developer | Software Enthusiast | From Vietnam 🇻🇳</h3>
+<h3 align="center">💻From Vietnam 🇻🇳</h3>
 
 <!-- BADGES -->
 <div align="center">
