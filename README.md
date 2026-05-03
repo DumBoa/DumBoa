@@ -43,7 +43,7 @@
 ### 🔥   My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DumBoa&show_icons=true&theme=dracula&hide_border=false" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DumBoa&show_icons=true&theme=dracula&hide_border=false" height="150"/> -->
   <img src="https://streak-stats.demolab.com?user=DumBoa&theme=dark&hide_border=false&border_radius=5&mode=daily&order=3" height="150"/>
 </div>
 
@@ -51,9 +51,9 @@
 
 ### 🔥   Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/DumBoa/DumBoa/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ---
 
