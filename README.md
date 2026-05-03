@@ -49,7 +49,7 @@
 
 ---
 
-### 🔥   Contribution Snake
+<!-- ### 🔥   Contribution Snake -->
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/DumBoa/DumBoa/output/snake.svg" alt="Snake animation" />
