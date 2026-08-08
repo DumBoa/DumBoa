@@ -21,9 +21,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m working as a **Software Developer** and learning **All** technologies  
-- 📚 Currently focused on **Backend**  
-- ⚡ Passionate about performance, building real-world tools & automation
+- I’m working as a **Software Developer** and learning **All** technologies  
+- Currently focused on **Backend**  
+- Passionate about performance, building real-world tools & automation
 
 ---
 
@@ -60,12 +60,3 @@
 
 ---
 
-### 👁 Visitor Count
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DumBoa.DumBoa" />
-</div>
-
----
-
-<h2 align="center">⚡ HAVE A NICE DAY ⚡</h2>
